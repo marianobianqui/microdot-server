@@ -1,0 +1,26 @@
+* {
+    font-style: carlito;
+    }
+h2 {
+    text-align: center;
+    }
+    
+button {
+        align-self: center;
+        }
+.container {
+        display: flex;
+        height: 70vh;
+        width: 100vw;
+        justify-content: space-around;
+        border-radius: 25%;
+        }
+.boton_1 {
+        background-color: #ff0000;
+        }
+.boton_2 {
+        background-color: #008000; 
+        }
+.boton_3 {
+        background-color: #ffff00; 
+        }
