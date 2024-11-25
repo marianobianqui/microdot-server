@@ -1,12 +1,6 @@
-function toggle() {
-    fetch(`/led/toggle/${led}`)
-    fetch(`/led/toggle/${led}`)
-    fetch(`/led/toggle/${led}`)
-}
 var slider = document.getElementById("myRange");
 var output = document.getElementById("ref");
 var temp = document.getElementById("temp");
-var alert = document.getElementById("alert");
 output.innerHTML = slider.value * 30 / 100;
 
 slider.oninput = function() {

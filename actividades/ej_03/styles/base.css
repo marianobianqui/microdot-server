@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
     font-family: Carlito;
-=======
-    font-family: Arial, sans-serif;
->>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
     margin: 0;
     padding: 0;
     background-color: #f0f8ff;
@@ -11,20 +7,12 @@ body {
 }
 
 header {
-<<<<<<< HEAD
     background-color: #810fc8;
-=======
-    background-color: #176fc7;
->>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
     padding: 20px 0;
     text-align: center;
 }
 
-<<<<<<< HEAD
 h1 {
-=======
-header h1 {
->>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
     margin: 0;
     color: white;
 }
@@ -34,11 +22,7 @@ main {
 }
 
 footer {
-<<<<<<< HEAD
     background-color: #810fc8;
-=======
-    background-color: #176fc7;
->>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -50,7 +34,3 @@ footer {
 footer p {
     margin: 5px 0;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
