@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicacion del servidor
 from microdot import Microdot
 from microdot import send_file
@@ -51,3 +52,6 @@ async def static(request, ref):
     return ujson.dumps({"status": 1})
 
 app.run(port=80)
+=======
+# Aplicacion del servidor
+>>>>>>> 6e7db1a9c52ff9f28ebdc30f475bf3cfe2a6c7b9
